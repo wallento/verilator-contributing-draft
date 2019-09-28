@@ -24,7 +24,7 @@ This contributing document contains some suggestions that may make contributions
   * Email or post in an issue a statement that you certify your contributions.
   * In any of these cases your name will be added to docs/CONTRIBUTORS and you are agreeing all future contributions are also certified.
 
-* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is apprciated. Please see the coding conventions in <<fixme-internals.md>>.
+* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is apprciated; please see the coding conventions in <<fixme-internals.md>>.
 
 #### **Do you have questions?**
 
