@@ -20,6 +20,8 @@ This contributing document contains some suggestions that may make contributions
 
 * If you have not contributed previously, your patch must include adding your name to docs/CONTRIBUTIORS.  This certifies your contributions are open source, under the [Developer Certificate of Origin](https://developercertificate.org/).
 
+* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is apprciated. Please see the coding conventions in <<fixme-internals.md>>.
+
 #### **Do you have questions?**
 
 * Please see the [Verilator FAQ](https://www.veripool.org/projects/verilator/wiki/Faq).
