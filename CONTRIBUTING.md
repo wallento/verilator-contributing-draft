@@ -9,18 +9,18 @@ This contributing document contains some suggestions that may make contributions
 * **Ensure the bug was not already reported** by searching [Verilator Issues](https://www.veripool.org/projects/verilator/issues).
 
 * If you're unable to find an open issue addressing the problem, [open a new issue](https://www.veripool.org/projects/verilator/issues/new).
-  * Be sure to include a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+  * Be sure to include a **code sample** or an **executable test case** demonstrating the bug and expected behavior that is not occurring.
   * The ideal example works against other simulators, and is in the test_regress/t test format, as described in <<FIXME-internals.md>>.
 
 #### **Did you write a patch that fixes a bug?**
 
-* Open a [open a new issue](https://www.veripool.org/projects/verilator/issues/new).
+* [Open a new issue](https://www.veripool.org/projects/verilator/issues/new).
 
 * You may attach a patch, or (preferred) may point to a github repository branch within your github account.
 
 * If you have not contributed previously, your patch must include adding your name to docs/CONTRIBUTIORS.  This certifies your contributions are open source, under the [Developer Certificate of Origin](https://developercertificate.org/).
 
-* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is apprciated. Please see the coding conventions in <<fixme-internals.md>>.
+* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is appreciated. Please see the coding conventions in <<fixme-internals.md>>.
 
 #### **Do you have questions?**
 
