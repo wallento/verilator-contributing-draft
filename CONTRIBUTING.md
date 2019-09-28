@@ -18,9 +18,15 @@ This contributing document contains some suggestions that may make contributions
 
 * You may attach a patch, or (preferred) may point to a github repository branch within your github account.
 
-* If you have not contributed previously, your patch must include adding your name to docs/CONTRIBUTIORS.  This certifies your contributions are open source, under the [Developer Certificate of Origin](https://developercertificate.org/).
+* Your source-code contributions must be certified as open source, under the [Developer Certificate of Origin](https://developercertificate.org/). On your first contribution, you must either:
+  * Have your patch include the addition of your name to docs/CONTRIBUTORS (preferred).
+  * Use "git -s" as part of your commit. This adds a "signed-of-by" attribute which will certify your contribution as described in the [Signed-of-By convention](https://github.com/wking/signed-off-by/blob/master/Documentation/SubmittingPatches).
+  * Email or post in an issue a statement that you certify your contributions.
+  * In any of these cases your name will be added to docs/CONTRIBUTORS and you are agreeing all future contributions are also certified.
+  
+* Your test contributions are generally considered released into the public domain, unless you request otherwise.
 
-* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is appreciated. Please see the coding conventions in <<fixme-internals.md>>.
+* Most important is we get your patch. If you'd like to clean up indentation and related issues ahead of our feedback, that is appreciated; please see the coding conventions in <<fixme-internals.md>>.
 
 #### **Do you have questions?**
 
